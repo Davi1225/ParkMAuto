@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|c:\\users\\admin\\desktop\\parkmauto clone\\parkmauto\\parkmauto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|solutionrelative:parkmauto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\parkmauto\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|solutionrelative:parkmauto\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\parkmauto\\parking_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|solutionrelative:parkmauto\\parking_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\parkmauto\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|solutionrelative:parkmauto\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|c:\\users\\admin\\desktop\\parkmauto clone\\parkmauto\\parkmauto\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|solutionrelative:parkmauto\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|c:\\users\\admin\\desktop\\parkmauto clone\\parkmauto\\parkmauto\\parking_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|solutionrelative:parkmauto\\parking_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|c:\\users\\admin\\desktop\\parkmauto clone\\parkmauto\\parkmauto\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|solutionrelative:parkmauto\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|c:\\users\\admin\\desktop\\parkmauto clone\\parkmauto\\parkmauto\\parkingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|solutionrelative:parkmauto\\parkingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|c:\\users\\admin\\desktop\\parkmauto clone\\parkmauto\\parkmauto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F47736-5A1C-4AE3-9035-949657034EA9}|ParkMAuto\\ParkMAuto.csproj|solutionrelative:parkmauto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Form1.cs",
+              "RelativeDocumentMoniker": "ParkMAuto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Form1.cs [Design]",
+              "RelativeToolTip": "ParkMAuto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:13:07.877Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Main.cs",
+              "RelativeDocumentMoniker": "ParkMAuto\\Main.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DSA things\\ParkMAuto\\ParkMAuto\\Main.cs [Design]",
+              "RelativeToolTip": "..\\..\\DSA things\\ParkMAuto\\ParkMAuto\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:42:52.271Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parking_List.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Parking_List.cs",
+              "RelativeDocumentMoniker": "ParkMAuto\\Parking_List.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DSA things\\ParkMAuto\\ParkMAuto\\Parking_List.cs [Design]",
+              "RelativeToolTip": "..\\..\\DSA things\\ParkMAuto\\ParkMAuto\\Parking_List.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:36:01.379Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Simulation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Simulation.cs",
+              "RelativeDocumentMoniker": "ParkMAuto\\Simulation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DSA things\\ParkMAuto\\ParkMAuto\\Simulation.cs [Design]",
+              "RelativeToolTip": "..\\..\\DSA things\\ParkMAuto\\ParkMAuto\\Simulation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:32:34.625Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParkingData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\ParkingData.cs",
+              "RelativeDocumentMoniker": "ParkMAuto\\ParkingData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\ParkingData.cs",
+              "RelativeToolTip": "ParkMAuto\\ParkingData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:59:20.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Parking_List.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Parking_List.cs",
+              "RelativeDocumentMoniker": "ParkMAuto\\Parking_List.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Parking_List.cs",
+              "RelativeToolTip": "ParkMAuto\\Parking_List.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAA5wEABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:23:18.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Simulation.cs",
+              "RelativeDocumentMoniker": "ParkMAuto\\Simulation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Simulation.cs",
+              "RelativeToolTip": "ParkMAuto\\Simulation.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAIwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:59:56.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Main.cs",
+              "RelativeDocumentMoniker": "ParkMAuto\\Main.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Main.cs",
+              "RelativeToolTip": "ParkMAuto\\Main.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:17:08.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Form1.cs",
+              "RelativeDocumentMoniker": "ParkMAuto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ParkMAuto clone\\ParkMAuto\\ParkMAuto\\Form1.cs",
+              "RelativeToolTip": "ParkMAuto\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:40:35.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
